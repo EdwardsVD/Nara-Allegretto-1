@@ -1,0 +1,145 @@
+{
+  "out": "/home/user/Nara-Allegretto-1/build/v3_pilot/pilot_merged.jsonl",
+  "pilot": true,
+  "base": {
+    "rows": 141311,
+    "identity_rows_migrated": 10,
+    "est_bytes": 53313824
+  },
+  "new_total_rows": 2192,
+  "merged_rows": 2192,
+  "merged_size_bytes": 700898,
+  "merged_size_mib": 0.67,
+  "merged_size_mb_decimal": 0.7,
+  "splits": {
+    "chat": {
+      "category": "chat",
+      "path": "/home/user/Nara-Allegretto-1/build/v3_pilot/chat_new.jsonl",
+      "rows": 278,
+      "size_bytes": 140154,
+      "size_mib": 0.13,
+      "rejects": {
+        "jawaban_duplikat": 29,
+        "pertanyaan_duplikat": 10
+      },
+      "validation_issues": 0,
+      "seconds": 0.2
+    },
+    "kode": {
+      "category": "kode",
+      "path": "/home/user/Nara-Allegretto-1/build/v3_pilot/kode_new.jsonl",
+      "rows": 330,
+      "size_bytes": 140259,
+      "size_mib": 0.13,
+      "rejects": {
+        "pertanyaan_duplikat": 7,
+        "jawaban_duplikat": 3
+      },
+      "validation_issues": 0,
+      "seconds": 0.7
+    },
+    "pengetahuan": {
+      "category": "pengetahuan",
+      "path": "/home/user/Nara-Allegretto-1/build/v3_pilot/pengetahuan_new.jsonl",
+      "rows": 484,
+      "size_bytes": 140116,
+      "size_mib": 0.13,
+      "rejects": {
+        "pertanyaan_duplikat": 2509,
+        "jawaban_duplikat": 1
+      },
+      "validation_issues": 0,
+      "seconds": 0.3
+    },
+    "bahasa": {
+      "category": "bahasa",
+      "path": "/home/user/Nara-Allegretto-1/build/v3_pilot/bahasa_new.jsonl",
+      "rows": 594,
+      "size_bytes": 140229,
+      "size_mib": 0.13,
+      "rejects": {
+        "pertanyaan_duplikat": 961,
+        "jawaban_duplikat": 14
+      },
+      "validation_issues": 0,
+      "seconds": 3.3
+    },
+    "math": {
+      "category": "math",
+      "path": "/home/user/Nara-Allegretto-1/build/v3_pilot/math_new.jsonl",
+      "rows": 506,
+      "size_bytes": 140140,
+      "size_mib": 0.13,
+      "rejects": {
+        "pertanyaan_duplikat": 194,
+        "jawaban_duplikat": 5
+      },
+      "validation_issues": 0,
+      "seconds": 19.2
+    }
+  },
+  "generators": {
+    "chat": {
+      "rows": 278,
+      "est_bytes": 140154
+    },
+    "kode": {
+      "attempts": 340,
+      "rows": 330,
+      "est_bytes": 140259,
+      "verifier": {
+        "python": {
+          "passed": 144,
+          "failed": 0
+        },
+        "javascript": {
+          "passed": 68,
+          "failed": 0
+        },
+        "typescript": {
+          "passed": 32,
+          "failed": 0
+        },
+        "html": {
+          "passed": 32,
+          "failed": 0
+        },
+        "css": {
+          "passed": 32,
+          "failed": 0
+        },
+        "sql": {
+          "passed": 16,
+          "failed": 0
+        },
+        "bash": {
+          "passed": 8,
+          "failed": 0
+        },
+        "json": {
+          "passed": 8,
+          "failed": 0
+        }
+      }
+    },
+    "pengetahuan": {
+      "rows": 484,
+      "est_bytes": 140116
+    },
+    "bahasa": {
+      "legacy_per_seed": {
+        "20261024": 299
+      },
+      "rows": 594,
+      "est_bytes": 140229
+    },
+    "math": {
+      "per_seed_new_rows": {
+        "20261024": 506
+      },
+      "rows": 506,
+      "est_bytes": 140140
+    }
+  },
+  "seconds": 32.7
+}

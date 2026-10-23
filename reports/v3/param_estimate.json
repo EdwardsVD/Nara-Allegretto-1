@@ -1,0 +1,36 @@
+{
+  "file": "Nara-Allegretto-3.jsonl",
+  "rows": 301497,
+  "size_bytes": 104852761,
+  "size_mib": 100.0,
+  "size_mb_decimal": 104.85,
+  "content_chars_user_assistant": 78597851,
+  "content_words": 12187595,
+  "regex_tokens_word_punct": 17041733,
+  "estimated_subword_tokens": {
+    "assumption_chars_per_token": "3.2-4.2 (rentang kasar bahasa Indonesia)",
+    "low": 18713774,
+    "mid": 21637801,
+    "high": 24561828
+  },
+  "target_params": 50000000,
+  "tokens_per_param_per_epoch_mid": 0.433,
+  "note": "Dataset 100 MB-class ini cocok untuk model +-50 juta parameter yang dilatih BANYAK epoch (multi-epoch) sambil dipantau validation loss-nya; ia bukan porsi satu epoch ala Chinchilla (20 token/parameter akan butuh +-1 miliar token unik). Angka token subword adalah perkiraan rentang, bukan hasil tokenizer tertentu.",
+  "example_architecture_tied_embedding": {
+    "vocab": 8192,
+    "context": 512,
+    "d_model": 560,
+    "n_layer": 12,
+    "d_ff": 2240,
+    "token_embedding": 4587520,
+    "position_embedding": 286720,
+    "per_layer_total": 3770480,
+    "total_params": 50121120,
+    "total_params_million": 50.12
+  },
+  "example_weight_file_size": {
+    "fp16_mb_decimal": 100.2,
+    "int8_mb_decimal": 50.1,
+    "note": "perkiraan kasar ukuran bobot saja, belum termasuk metadata/format berkas"
+  }
+}

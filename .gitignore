@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+
+.venv/
+
+# Berkas mentah v3 (104.852.761 byte) melampaui batas berkas GitHub.
+# Master-nya ada di Google Drive (folder Nara-Allegretto-3); repo ini
+# menyimpan cadangan identik sebagai Nara-Allegretto-3.zip.
+Nara-Allegretto-3.jsonl

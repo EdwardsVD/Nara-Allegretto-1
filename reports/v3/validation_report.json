@@ -1,0 +1,18 @@
+{
+  "file": "Nara-Allegretto-3.jsonl",
+  "rows": 301497,
+  "size_bytes": 104852761,
+  "size_mib": 100.0,
+  "size_mb_decimal": 104.85,
+  "max_line_bytes": 813,
+  "answer_len_min": 45,
+  "answer_len_median": 149,
+  "answer_len_mean": 188.6,
+  "answer_len_max": 543,
+  "equations_checked": 91372,
+  "equations_bad": 0,
+  "code_blocks_checked": 38659,
+  "code_blocks_bad": 0,
+  "issues_count": 0,
+  "sample_issues": []
+}
