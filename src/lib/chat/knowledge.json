@@ -1,0 +1,242 @@
+[
+ {
+  "question": "siapa kamu?",
+  "answer": "Saya adalah Nara Ai, kecerdasan buatan yang dibuat oleh komunitas yang tidak dikenal, dengan kode build Nara N1."
+ },
+ {
+  "question": "Hewan apa yang bernapas lewat kulit bro?",
+  "answer": "Cacing bernapas lewat kulitnya."
+ },
+ {
+  "question": "nara, apa itu uang rupiah?",
+  "answer": "Rupiah adalah mata uang Indonesia, dan uang pertama Republik Indonesia diterbitkan tahun 1946."
+ },
+ {
+  "question": "Kebetulan aku mau nanya, rumus kimia air apa?",
+  "answer": "Rumus kimia air adalah H2O, yaitu dua atom hidrogen dan satu atom oksigen."
+ },
+ {
+  "question": "Nia punya 6 jeruk, lalu 3 jeruk dimakan. Berapa jeruk yang tersisa?",
+  "answer": "Jeruk yang tersisa ada 3."
+ },
+ {
+  "question": "berapa 5 x 42?",
+  "answer": "5 x 42 sama dengan 210."
+ },
+ {
+  "question": "Apa itu mengunduh dan mengunggah pls?",
+  "answer": "Mengunduh atau download adalah mengambil data dari internet, sedangkan mengunggah atau upload adalah mengirim data ke internet."
+ },
+ {
+  "question": "berapa 5 persen dari 380?",
+  "answer": "5% dari 380 adalah 19."
+ },
+ {
+  "question": "berapa 20% dari 940?",
+  "answer": "20% dari 940 adalah 188."
+ },
+ {
+  "question": "sebutkan tiga benda cair?",
+  "answer": "Benda cair bentuknya berubah mengikuti wadahnya."
+ },
+ {
+  "question": "siapa penemu angka nol hehe?",
+  "answer": "Konsep angka nol dikembangkan oleh para ilmuwan di India."
+ },
+ {
+  "question": "tolong jawab, siapa pencipta indonesia raya?",
+  "answer": "Indonesia Raya diciptakan W.R. Supratman dan pertama kali dikumandangkan pada 28 Oktober 1928."
+ },
+ {
+  "question": "Continue this pattern: 10, 18, 26, 34?",
+  "answer": "The next numbers are 42, 50."
+ },
+ {
+  "question": "berapa hasil 5 dikali 85 banget?",
+  "answer": "Hasil dari 5 kali 85 adalah 425."
+ },
+ {
+  "question": "Gas apa yang kita hirup untuk bernapas?",
+  "answer": "Oksigen adalah gas yang kita hirup, dan kita menghembuskan karbon dioksida."
+ },
+ {
+  "question": "Eka sudah punya 4 manggis, lalu membeli 10 manggis lagi. Berapa jumlah manggis Eka?",
+  "answer": "Jumlah manggis Eka sekarang 14."
+ },
+ {
+  "question": "Rizky punya 17 apel, lalu 5 apel diberikan kepada Siti. Berapa sisa apel Rizky?",
+  "answer": "Sisa apel Rizky adalah 12 apel."
+ },
+ {
+  "question": "Andi sudah punya 12 jeruk, lalu membeli 2 jeruk lagi. Berapa jumlah jeruk Andi?",
+  "answer": "Jumlah jeruk Andi sekarang 14."
+ },
+ {
+  "question": "berapa 5 - 14?",
+  "answer": "5 - 14 hasilnya -9, karena 14 lebih besar daripada 5."
+ },
+ {
+  "question": "kamu bisa mendengar?",
+  "answer": "Saya tidak bisa mendengar suara, saya hanya memproses teks."
+ },
+ {
+  "question": "boleh nanya, apa gynung tertinggi di jawa?",
+  "answer": "Semeru di Jawa Timur adalah gunung tertinggi di Pulau Jawa."
+ },
+ {
+  "question": "Kamu doyan apa?",
+  "answer": "Saya tidak bisa makan karena saya kecerdasan buatan, tapi saya siap membantu pertanyaanmu kapan saja."
+ },
+ {
+  "question": "Putri punya 20 pisang, lalu 8 pisang dimakan. Berapa pisang yang tersisa?",
+  "answer": "Pisang yang tersisa ada 12."
+ },
+ {
+  "question": "21 x 7 berapa?",
+  "answer": "Hasil dari 21 kali 7 adalah 147."
+ },
+ {
+  "question": "Gender kamu apa hehe?",
+  "answer": "Saya adalah kecerdasan buatan, jadi saya tidak punya gender."
+ },
+ {
+  "question": "good aftternoon",
+  "answer": "Good afternoon! How can I help you?"
+ },
+ {
+  "question": "deret berikutnya berapa: 8, 14, 20, 26?",
+  "answer": "Angka selanjutnya adalah 32, 38, 44."
+ },
+ {
+  "question": "boleh nanya, jepang itu di benua mana?",
+  "answer": "Negara Jepang terletak di Asia."
+ },
+ {
+  "question": "Boleh nanya, inflasi itu apa sih?",
+  "answer": "Inflasi adalah kenaikan harga barang dan jasa secara terus-menerus, sehingga nilai uang menurun."
+ },
+ {
+  "question": "berapa hasil 15 dibagi 5?",
+  "answer": "15 : 5 sama dengan 3."
+ },
+ {
+  "question": "Ibu kota rumania?",
+  "answer": "Ibu kota Rumania adalah Bukares."
+ },
+ {
+  "question": "Hitung 18 dikurangi 15?",
+  "answer": "18 - 15 hasilnya 3."
+ },
+ {
+  "question": "bisa buat game pakai kotlin?",
+  "answer": "Maaf, kemampuan coding saya belum tersedia untuk Kotlin. Saya lebih bisa menjawab pertanyaan seperti matematika dan sejarah."
+ },
+ {
+  "question": "22 tambah 92 sama dengan berapa dong ya?",
+  "answer": "Hasil dari 22 + 92 adalah 114."
+ },
+ {
+  "question": "berapa mata laba laba dong ya?",
+  "answer": "Meski punya banyak mata, laba-laba lebih mengandalkan getaran."
+ },
+ {
+  "question": "bagaimana ejaan kata tidur?",
+  "answer": "'tidur' dieja: t-i-d-u-r."
+ },
+ {
+  "question": "Translate angry ke bahasa indonesia sih?",
+  "answer": "Bahasa Indonesia dari 'angry' adalah 'marah'."
+ },
+ {
+  "question": "Orang prancis pakai bahasa apa dong?",
+  "answer": "Bahasa yang dipakai di Prancis adalah bahasa Prancis."
+ },
+ {
+  "question": "sebuah kotak berisi 2 durian. Kaalau ada 8 kotak, berapa jumlah durian semuanya?",
+  "answer": "Jumlah durian semuanya adalah 16."
+ },
+ {
+  "question": "7 + 12 bearpa?",
+  "answer": "7 tambah 12 sama dengan 19."
+ },
+ {
+  "question": "berapa hasil dari 73 - 48?",
+  "answer": "Hasil dari 73 - 48 adalah 25."
+ },
+ {
+  "question": "madu dibuat oleh siapa bro?",
+  "answer": "Madu dibuat oleh lebah dari sari bunga."
+ },
+ {
+  "question": "Sebuah kotak berisi 8 balon. Kalau ada 4 kotak, berapa jumlah balon semuanya?",
+  "answer": "Jumlah balon semuanya adalah 32."
+ },
+ {
+  "question": "sinonim dari tangkas apa?",
+  "answer": "Kata yang maknanya mirip dengan 'tangkas' adalah 'cepat'."
+ },
+ {
+  "question": "hai nara, 6 x 4 berapa?",
+  "answer": "6 kali 4 hasilnya 24."
+ },
+ {
+  "question": "berapa 17 kali 9?",
+  "answer": "Hasil dari 17 kali 9 adalah 153."
+ },
+ {
+  "question": "Berapa 4 x 2 bro?",
+  "answer": "Hasil dari 4 kali 2 adalah 8."
+ },
+ {
+  "question": "Berapa kuadrat dari 27?",
+  "answer": "Kuadrat dari 27 adalah 729."
+ },
+ {
+  "question": "20 - 17 berapa?",
+  "answer": "Sisasinya 3."
+ },
+ {
+  "question": "apa yang lebih besar, 114 atau 196?",
+  "answer": "196 lebih besar daripada 114."
+ },
+ {
+  "question": "Andi punya 16 apel, lalu 6 apel dimakan. Berapa apel yang tersisa?",
+  "answer": "Apel yang tersisa ada 10."
+ },
+ {
+  "question": "Tolong hitung 83 + 95 ya?",
+  "answer": "83 tambah 95 sama dengan 178."
+ },
+ {
+  "question": "aku mau tanya, kamu bisa jawab pertanyaan apa aja?",
+  "answer": "Contohnya soal matematika seperti berapa 25 tambah 17, sejarah seperti kapan Indonesia merdeka, atau pengetahuan umum seperti apa ibu kota Jepang."
+ },
+ {
+  "question": "makanan apa banyak vitamni c banget?",
+  "answer": "Jeruk adalah sumber vitamin C yang baik untuk daya tahan tubuh."
+ },
+ {
+  "question": "benua apa yang ada negara kanada?",
+  "answer": "Kanada berada di benua Amerika Utara."
+ },
+ {
+  "question": "berapa hasil dari 10 + 10?",
+  "answer": "10 + 10 hasilnya 20."
+ },
+ {
+  "question": "tolong hitung 20 persen dari 300?",
+  "answer": "20% dari 300 adalah 60."
+ },
+ {
+  "question": "What is 9 times 2 buddy?",
+  "answer": "9 times 2 equals 18."
+ },
+ {
+  "question": "Cek faktanya, satu jam sama dengan 60 menit bro?",
+  "answer": "Ya, pernyataan itu benar."
+ },
+ {
+  "question": "Boleh nanya, di mana proklamasi dibacakan?",
+  "answer": "Proklamasi dibacakan di rumah Soekarno, Jalan Pegangsaan Timur No. 56, Jakarta."
+ }
+]

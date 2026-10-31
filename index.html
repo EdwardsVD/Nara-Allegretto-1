@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="id" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Nara - asisten AI berbahasa Indonesia. Ruang chat sederhana, tanpa penyimpanan riwayat." />
+    <meta name="color-scheme" content="dark light" />
+    <title>Nara</title>
+    <script>
+      // Terapkan tema sebelum render agar tidak ada kedipan warna.
+      (function () {
+        try {
+          var stored = window.localStorage.getItem('nara_theme');
+          var pref = stored === 'light' || stored === 'dark' ? stored : 'system';
+          var dark =
+            pref === 'dark' ||
+            (pref === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          document.documentElement.classList.toggle('dark', dark);
+        } catch (e) {
+          /* localStorage bisa diblokir; fallback ke default gelap di <html class="dark"> */
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
